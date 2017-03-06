@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example.springbootweb</groupId>
-	<artifactId>springwebdemo</artifactId>
+	<artifactId>springwebdemo-properties</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>springwebdemo-properties</name>
-	<description>springwebdemo</description>
+	<description>springwebdemo-properties</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
